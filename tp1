@@ -1,0 +1,54 @@
+Instituto Superior Politecnico De Cordoba 
+
+
+
+Trabajo Práctico #1: Introducción al IoT
+
+
+
+
+Parte 1: Investigación sobre IoT
+1. Definición y Aplicaciones del IoT: Investigar y redactar un breve
+ensayo (250-300 palabras) sobre qué es el Internet de las Cosas
+(IoT), incluyendo al menos tres aplicaciones prácticas en
+diferentes industrias.
+
+respuesta 1)
+Segun lo leido pude comprender que el Internet de las Cosas, o IoT por sus siglas en inglés Internet of Things, es un concepto que se refiere a la interconexión digital de objetos cotidianos con internet. Esencialmente, el IoT abarca desde dispositivos y electrodomésticos comunes, hasta sofisticados sistemas industriales, todos conectados a través de internet para recopilar, enviar y recibir datos.
+
+tambien pude recolectar informacion mas a fondo con respecto a las interconeciones digitales , a continuacion unos ejemplos del mismo 
+
+Relojes Inteligentes: Los relojes inteligentes pueden rastrear tus hábitos diarios como por ejemplo,  ejercicio y salud y asi enviar esa información a tu médico o a una aplicación de salud en tu teléfono
+
+Iluminación Inteligente: Los bombillos inteligentes ahora se pueden controlar de forma remota a través de internet, permitiéndonos ajustar la iluminación de tu hogar desde donde estes con la comodidad de tu teléfono.
+
+aqui les dejo los ejemplos solicitados con respecto a las aplicaciones prácticas en
+diferentes industrias.
+
+1.Industria de la Salud
+2.Industria Automotriz
+3.Industria de la Agricultura
+
+
+2. Impacto del IoT: Reflexionar sobre cómo el IoT puede
+transformar la vida cotidiana y los negocios en el futuro. Identificar
+un problema actual que podría ser resuelto mediante la
+implementación de una solución basada en IoT.
+
+
+
+respuesta 2)
+El Internet de las Cosas tiene el nivel de transformar en cuestiones de segundo nuestra vida cotidiana como el mundo, en nuestra vida diaria, el IoT podría hacer que nuestras casas sean más inteligentes. 
+ejemplo: despertarte con una alarma adactada a tu reloj inteligente y que tu cafetera podría tener listo tu café justo cuando te despiertas, Tu heladera podría sugerirte recetas basadas en los ingredientes que tienes, Todo esto podría facilitar nuestras rutinas diarias y permitirnos vivir de manera más comoda.
+
+a continuacion les dejo un problema actual que podría ser resuelto mediante la
+implementación de una solución basada en IoT.
+
+Problema: los residuos que tenemos a diario 
+
+En muchas ciudades de la Argentina, la basura es un problema significativo. Los sistemas actuales a menudo dependen de horarios fijos de recolección de basura por los camiones de basura, sin tener en cuenta si los contenedores de basura están llenos o no, esto puede resultar en contenedores desbordados, lo que atrae animales no deseado y malos olores y crea problemas de salud pública.
+
+Solución basada en IoT:
+
+Una solución basada en IoT podría resolver este problema mediante la implementación de contenedores de basura inteligentes. Estos contenedores estarían equipados con sensores que pueden monitorear el nivel de llenos o vacio. Cuando el contenedor esté casi lleno, podría enviar una señal a través de internet a la empresa de gestión de residuos, indicando que necesita ser vaciado.
+
